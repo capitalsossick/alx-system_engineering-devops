@@ -1,1 +1,1 @@
-write a script that changes the working dirctory to users directory task
+write a script that display current directory contents in a log format
