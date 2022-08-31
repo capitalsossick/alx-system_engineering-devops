@@ -1,1 +1,1 @@
-write a script that display current directory contents in a log format
+write a script that display hidden file in  current directory contents in a log format
