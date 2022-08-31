@@ -1,1 +1,1 @@
-script for printing absolute working directory
+display the contents list of your current directory
