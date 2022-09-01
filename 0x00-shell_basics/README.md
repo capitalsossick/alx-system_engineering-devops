@@ -1,1 +1,1 @@
-write a script that remove betty to TMP directory
+write a script that  delete directory
