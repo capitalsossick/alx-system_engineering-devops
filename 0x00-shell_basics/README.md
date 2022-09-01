@@ -1,1 +1,1 @@
-write a script that  list
+write a script that  lists
