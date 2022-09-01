@@ -1,1 +1,1 @@
-write a script that print type
+write a script that print symbols
