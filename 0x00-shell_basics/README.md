@@ -1,1 +1,1 @@
-write a script that print symbols
+write a script that print let move
