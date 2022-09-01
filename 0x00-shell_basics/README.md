@@ -1,1 +1,1 @@
-write a script that  lists
+write a script that print type
